@@ -21,10 +21,10 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 `WALKTHROUGH-REQ.GIF`  A walkthrough of the required user story. Shows 20 films currently in theaters.  
-<img src="walthrough-req.gif" width=250><br>
+<img src="walkthrough-req.gif" width=250><br>
 
 `WALKTHROUGH-STRETCH.GIF`  A walkthrough of a stretch user story. Viewing the Flixster app in landscape changes the movie image used. 
-<img src="walthrough-stretch.gif" width=250><br>
+<img src="walkthrough-stretch.gif" width=250><br>
 
 ### Notes
 Some issues I had were getting API calls at the beginning of the project. I also had some worries with my MovieAdapter.java wouldn't show movies but that was a simple change of returning the movie list size.
