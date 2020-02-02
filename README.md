@@ -24,6 +24,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="walkthrough-req.gif" width=250><br>
 
 `WALKTHROUGH-STRETCH.GIF`  A walkthrough of a stretch user story. Viewing the Flixster app in landscape changes the movie image used. 
+
+
 <img src="walkthrough-stretch.gif" width=250><br>
 
 ### Notes
