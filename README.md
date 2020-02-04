@@ -18,7 +18,7 @@
 
 ### App Walkthough GIF
 
-`WALKTHROUGH-PT-2.GIF`
+`WALKTHROUGH-PT-2-REQ.GIF`
 
 Added a detail view that shows the YouTube movie trailer, title, rating out of 10 stars, and overview.
 
