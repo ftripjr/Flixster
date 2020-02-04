@@ -18,9 +18,11 @@
 
 ### App Walkthough GIF
 
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
+`WALKTHROUGH-PT-2.GIF`
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+Added a detail view that shows the YouTube movie trailer, title, rating out of 10 stars, and overview.
+
+<img src="walkthrough-pt-2-req.gif" width=250><br>
 
 ### Notes
 
@@ -47,14 +49,18 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pts) Improved the user interface by experimenting with styling and coloring.
 - [ ] (2pts) For popular movies (i.e. a movie voted for more than 5 stars), the full backdrop image is displayed. Otherwise, a poster image, the movie title, and overview is listed. Use Heterogenous RecyclerViews and use different ViewHolder layout files for popular movies and less popular ones.
 
-### App Walkthough GIF
-`WALKTHROUGH-REQ.GIF`  A walkthrough of the required user story. Shows 20 films currently in theaters.  
+### App Walkthough GIFs
+`WALKTHROUGH-REQ.GIF`
+
+A walkthrough of the required user story. Shows 20 films currently in theaters.
+
 <img src="walkthrough-req.gif" width=250><br>
 
-`WALKTHROUGH-STRETCH.GIF`  A walkthrough of a stretch user story. Viewing the Flixster app in landscape changes the movie image used. 
+`WALKTHROUGH-STRETCH.GIF`
 
+A walkthrough of a stretch user story. Viewing the Flixster app in landscape changes the movie image used.
 
-<img src="walkthrough-stretch.gif" width=250><br>
+<img src="walkthrough-stretch.gif" height=250><br>
 
 ### Notes
 Some issues I had were getting API calls at the beginning of the project. I also had some worries with my MovieAdapter.java wouldn't show movies but that was a simple change of returning the movie list size.
