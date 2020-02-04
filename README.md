@@ -27,7 +27,7 @@ Added a detail view that shows the YouTube movie trailer, title, rating out of 1
 
 ### Notes
 
-Describe any challenges encountered while building the app.
+No problems on this app. May come into issues when doing stretch stories.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
