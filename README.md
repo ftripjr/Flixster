@@ -1,3 +1,6 @@
+# Flix
+Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+
 ## Flix Part 2
 
 ### User Stories
@@ -18,20 +21,20 @@
 
 ### App Walkthough GIF
 
-`WALKTHROUGH-PT-2.GIF`
+`WALKTHROUGH.GIF`
 
 Added a detail view that shows the YouTube movie trailer, title, rating out of 10 stars, and overview.
+This gif demonstrates the ability to switch between activities, update the info from an API, and switch views based on orientation
 
-<img src="walkthrough-pt-2-req.gif" width=250><br>
+<img src="walkthrough.gif" width=300><br>
 
 ### Notes
 
-Describe any challenges encountered while building the app.
+No problems on this app. May come into issues when doing stretch stories.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
-- [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android# Flix
-Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+- [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
 
 ---
 
@@ -50,20 +53,20 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pts) For popular movies (i.e. a movie voted for more than 5 stars), the full backdrop image is displayed. Otherwise, a poster image, the movie title, and overview is listed. Use Heterogenous RecyclerViews and use different ViewHolder layout files for popular movies and less popular ones.
 
 ### App Walkthough GIFs
-`WALKTHROUGH-REQ.GIF`
+`WALKTHROUGH-PT-1.GIF`
 
 A walkthrough of the required user story. Shows 20 films currently in theaters.
 
-<img src="walkthrough-req.gif" width=250><br>
+<img src="walkthrough-pt-1.gif" width=250><br>
 
-`WALKTHROUGH-STRETCH.GIF`
+`WALKTHROUGH-PT-1-STRETCH.GIF`
 
 A walkthrough of a stretch user story. Viewing the Flixster app in landscape changes the movie image used.
 
-<img src="walkthrough-stretch.gif" height=250><br>
+<img src="walkthrough-pt-1-stretch.gif" height=250><br>
 
 ### Notes
-Some issues I had were getting API calls at the beginning of the project. I also had some worries with my MovieAdapter.java wouldn't show movies but that was a simple change of returning the movie list size.
+Some issues I had were getting API calls at the beginning of the project. I also had some worries with my MovieAdapter.java wouldn't show movies but that was a simple change of returning the movie list size. Also got help from [another student] (https://github.com/mackmcg) in fixing my UI and getting the overview text to look well in each row.
 
 ### Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
