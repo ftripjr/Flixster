@@ -19,11 +19,12 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 
-`WALKTHROUGH-PT-2-REQ.GIF`
+`WALKTHROUGH.GIF`
 
 Added a detail view that shows the YouTube movie trailer, title, rating out of 10 stars, and overview.
+Shows all aspects up to this point completed.
 
-<img src="walkthrough-pt-2-req.gif" width=250><br>
+<img src="walkthrough.gif" width=300><br>
 
 ### Notes
 
@@ -31,8 +32,7 @@ No problems on this app. May come into issues when doing stretch stories.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
-- [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android# Flix
-Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+- [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
 
 ---
 
