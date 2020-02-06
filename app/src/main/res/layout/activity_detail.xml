@@ -30,8 +30,16 @@
         android:rating="8.1" />
 
     <TextView
+        android:id="@+id/tvPopularity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        tools:text="Popularity: 174.593" />
+
+    <TextView
         android:id="@+id/tvOverview"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textSize="12sp"
         tools:text="At the height of the First World War, two young British soldiers, Schofield and Blake are given a seemingly impossible mission. In a race against time, they must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers—Blake's own brother among them." />
 </LinearLayout>

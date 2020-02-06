@@ -16,6 +16,7 @@ public class Movie {
     int movieId;
     String backdropPath;
     double rating;
+    double popularity;
 
     // Parceler's needed empty constructor
     public Movie(){}
@@ -26,6 +27,7 @@ public class Movie {
         title = jsonObject.getString("title");
         overview = jsonObject.getString("overview");
         rating = jsonObject.getDouble("vote_average");
+        popularity = jsonObject.getDouble("popularity");
         movieId = jsonObject.getInt("id");
     }
 
@@ -58,4 +60,8 @@ public class Movie {
     }
 
     public int getMovieId() { return movieId; }
+
+    public double getPopularity() {
+        return popularity;
+    }
 }

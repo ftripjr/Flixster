@@ -19,12 +19,12 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 
-`WALKTHROUGH.GIF`
+`WALKTHROUGH-PT-2-REQ.GIF`
 
-Added a detail view that shows the YouTube movie trailer, title, rating out of 10 stars, and overview.
+Added a detail view that shows the YouTube movie trailer, title, rating out of 10 stars, popularity score, and overview.
 Shows all aspects up to this point completed.
 
-<img src="walkthrough.gif" width=300><br>
+<img src="walkthrough-pt-2-req.gif" width=500><br>
 
 ### Notes
 
