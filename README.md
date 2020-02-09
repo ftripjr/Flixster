@@ -24,7 +24,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 Added a detail view that shows the YouTube movie trailer, title, rating out of 10 stars, popularity score, and overview.
 Shows all aspects up to this point completed.
 
-<img src="flix-first-stretch.gif" width=500><br>
+<img src="flix-first-stretch.gif" width=250><br>
 
 ### Notes
 
@@ -55,7 +55,7 @@ No problems on this app. May come into issues when doing stretch stories.
 
 A walkthrough of the required user story.
 
-<img src="walkthrough-req.gif" width=750><br>
+<img src="walkthrough-req.gif" width=250><br>
 
 `WALKTHROUGH-STRETCH.GIF`
 
