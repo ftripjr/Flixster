@@ -29,8 +29,8 @@ public class DetailActivity extends YouTubeBaseActivity {
 
     TextView tvTitle;
     TextView tvOverview;
-    RatingBar ratingBar;
     TextView tvPopularity;
+    RatingBar ratingBar;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
